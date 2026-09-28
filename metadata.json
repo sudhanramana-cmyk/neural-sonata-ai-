@@ -1,0 +1,6 @@
+{
+  "name": "Neural Sonata - AI Music Generation Laboratory",
+  "description": "Professional AI-powered music composition suite featuring deep learning MIDI generation, dataset preprocessing, model training, interactive piano roll DAW, audio synthesis, and neural music visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
